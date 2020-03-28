@@ -1,6 +1,6 @@
 # api-covid-19
 
-a [Sails v1](https://sailsjs.com) application
+NodeJS based service endpoints to be used for gotYouCOVered 
 
 
 ### Links
